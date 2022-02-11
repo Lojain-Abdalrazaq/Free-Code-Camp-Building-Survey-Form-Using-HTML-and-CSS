@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+    background-image:url('https://i.redd.it/d2cqpjqcuev11.jpg');
+    color:#fff;
+    font-size:20px;
+  }
+  form-design{
+    text-align: left;
+  }
+  h1{
+    font-size: 40px;
+    font-family: monospace;
+  }
+  
+  textarea{
+    width:350px;
+    height:80px;
+  }
+  #submit{
+   margin-left:6em;
+    margin-top:1em;
+    height:45px;
+    width:10em;
+    background-color:#BA55D3;
+    color:#fff;
+    cursor:pointer;
+  }s
